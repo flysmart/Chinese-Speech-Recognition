@@ -14,9 +14,14 @@ Practical for AI
   
 
 **训练结果**
-![image](https://github.com/flysmart/Chinese-Speech-Recognition/assets/66983043/91f8b1e1-3c6c-4d35-a739-78088f904c13)
-![image](https://github.com/flysmart/Chinese-Speech-Recognition/assets/66983043/65787c4c-6a53-4b0f-869f-0763feb76aba)
-![image](https://github.com/flysmart/Chinese-Speech-Recognition/assets/66983043/20d430df-e774-4ffd-a8e1-1d9583f50059)
+![image](https://github.com/flysmart/Chinese-Speech-Recognition/assets/66983043/91f8b1e1-3c6c-4d35-a739-78088f904c13)  
+
+
+![image](https://github.com/flysmart/Chinese-Speech-Recognition/assets/66983043/65787c4c-6a53-4b0f-869f-0763feb76aba)  
+
+
+![image](https://github.com/flysmart/Chinese-Speech-Recognition/assets/66983043/20d430df-e774-4ffd-a8e1-1d9583f50059)                                    
+
 
 
 
