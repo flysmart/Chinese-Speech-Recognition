@@ -11,6 +11,11 @@ Practical for AI
 <br>
 <br>
 **训练结果**
+<br>
+<br>
+<br>
+<br>
+<br>
 ![image](https://github.com/flysmart/Chinese-Speech-Recognition/assets/66983043/91f8b1e1-3c6c-4d35-a739-78088f904c13)  
 <br>
 <br>
