@@ -5,8 +5,8 @@ Practical for AI
 <br>
 **训练模型**  
 <br>                                  
-运行'python train.py'训练LAS模型  
-运行'python train1.py'训练Transformer模型
+运行`python train.py`训练LAS模型  
+运行`python train1.py`训练Transformer模型
 <br>
 <br>
 <br>
