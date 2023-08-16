@@ -14,6 +14,6 @@ Practical for AI
 ![image](https://github.com/flysmart/Chinese-Speech-Recognition/assets/66983043/20d430df-e774-4ffd-a8e1-1d9583f50059)
 
 
-仓库中代码引用了部分其他人的代码，但是找不到出处地址了。侵删。
+PS:仓库中代码引用了部分其他人的代码，但是找不到出处地址了。侵删。
 
 
